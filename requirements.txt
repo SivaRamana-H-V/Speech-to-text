@@ -1,5 +1,5 @@
-streamlit==0.89.0
-sounddevice==0.4.2
-numpy==1.19.5
-wavio==0.0.4
+streamlit
+sounddevice
+numpy
+wavio
 whisper
